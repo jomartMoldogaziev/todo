@@ -79,7 +79,7 @@ h1 {
     font-size: 25px;
             color: rgb(255, 255, 255);
              display: grid;
-    grid-template-columns: 3fr 0.1fr 0.1fr;
+    grid-template-columns: 3fr 0.6fr 0.1fr;
 
 }
 
@@ -131,10 +131,13 @@ h1 {
         margin-top: 5px;
     }
 
-    .texIn, .setDate, #addBtn {
+    .texIn, #addBtn {
         font-size: 15px;
 /*         padding-left: 15px; */
         
+    }
+        .setDate{
+        width: 80%;
     }
 
     .taskItem {
