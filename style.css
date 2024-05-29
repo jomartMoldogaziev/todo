@@ -126,21 +126,21 @@ h1 {
     }
 
     .mainBlock {
-        width: 70%;
+        width: 90%;
         padding: 0.5em;
         margin-top: 5px;
     }
 
     .texIn, .setDate, #addBtn {
         font-size: 15px;
-        padding-left: 15px;
+/*         padding-left: 15px; */
         
     }
 
     .taskItem {
-        font-size: 14px;
+        font-size: 20px;
     }
     .btn{
-        width: 20px;
+        width: 30px;
     }
 }
